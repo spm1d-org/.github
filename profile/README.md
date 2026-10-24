@@ -21,5 +21,5 @@ Documentation: [spm1d.org](https://spm1d.org/)
 
 <p align="right">
 spm1d is developed and maintained by <a href="https://github.com/0todd0000">Todd Pataky</a> and contributors
-<a href="https://github.com/0todd0000"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spm1d-org/.github/main/profile/0todd0000-dark.png"><img src="https://raw.githubusercontent.com/spm1d-org/.github/main/profile/0todd0000.png" alt="Todd Pataky on GitHub" height="96" align="middle"></picture></a>
+<a href="https://github.com/0todd0000"><img src="https://raw.githubusercontent.com/spm1d-org/.github/main/profile/0todd0000.png#gh-light-mode-only" alt="Todd Pataky on GitHub" height="96" align="middle"><img src="https://raw.githubusercontent.com/spm1d-org/.github/main/profile/0todd0000-dark.png#gh-dark-mode-only" alt="Todd Pataky on GitHub" height="96" align="middle"></a>
 </p>
